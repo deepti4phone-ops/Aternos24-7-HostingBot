@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "KartikPro937.aternos.me:17530",
+    "port": 17530,
+    "version": "26.3 (135)",
     "try-creative": false
   },
   "position": {
