@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KartikPro937.aternos.me:17530",
-    "port": 17530,
+    "ip": "voideyserver.play.hosting",
+    "port": 25691,
     "version": "26.3 (135)",
     "try-creative": false
   },
